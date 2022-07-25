@@ -3,7 +3,7 @@
         {
             "name": "Linux",
             "cStandard": "c11",
-            "intelliSenseMode": "gcc-x64",
+            "intelliSenseMode": "gcc-arm64",
             "compileCommands": "${workspaceFolder}/compile_commands.json"
         }
     ],
